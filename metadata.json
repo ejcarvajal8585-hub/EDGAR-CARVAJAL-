@@ -1,0 +1,5 @@
+{
+  "name": "Python Code Generator: Sum or Multiply",
+  "description": "A web application that takes two positive integers and an operation (sum or multiply), calculates the result, and uses the Gemini API to generate the corresponding Python code.",
+  "requestFramePermissions": []
+}
